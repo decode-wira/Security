@@ -6,6 +6,8 @@
       "number": "628568782064"
     }
   ],
-  "allowed_ips": [],
+  "allowed_ips": [
+    "wira"
+  ],
   "historyRequest": {}
 }
