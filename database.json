@@ -7,7 +7,6 @@
     }
   ],
   "allowed_ips": [
-    "wira",
     "165.22.59.243"
   ],
   "historyRequest": {}
