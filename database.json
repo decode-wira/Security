@@ -1,1 +1,11 @@
-[]
+{
+  "users": [
+    {
+      "username": "wira",
+      "password": "wira",
+      "number": "628568782064"
+    }
+  ],
+  "allowed_ips": [],
+  "historyRequest": {}
+}
