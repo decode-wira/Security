@@ -12,6 +12,14 @@
       "nomor": "628823917475",
       "registered_at": "2025-04-04T02:23:23.406Z",
       "last_login": null
+    },
+    {
+      "id": 3,
+      "username": "wbk",
+      "password": "wbk",
+      "nomor": "6285117114846",
+      "registered_at": "2025-04-04T11:13:10.517Z",
+      "last_login": null
     }
   ],
   "allowed_ips": [
