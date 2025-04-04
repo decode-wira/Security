@@ -20,6 +20,14 @@
       "nomor": "6285117114846",
       "registered_at": "2025-04-04T11:13:10.517Z",
       "last_login": null
+    },
+    {
+      "id": 4,
+      "username": "clyn",
+      "password": "anj123",
+      "nomor": "6285758188368",
+      "registered_at": "2025-04-04T13:43:41.934Z",
+      "last_login": null
     }
   ],
   "allowed_ips": [
