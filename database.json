@@ -4,7 +4,15 @@
       "username": "wira",
       "password": "wira",
       "number": "628568782064"
-    }    
+    },
+    {
+      "id": 2,
+      "username": "Wira",
+      "password": "pass123",
+      "nomor": "628823917475",
+      "registered_at": "2025-04-04T02:23:23.406Z",
+      "last_login": null
+    }
   ],
   "allowed_ips": [
     "165.22.59.243"
