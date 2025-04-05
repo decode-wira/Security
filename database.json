@@ -28,6 +28,14 @@
       "nomor": "6285758188368",
       "registered_at": "2025-04-04T13:43:41.934Z",
       "last_login": null
+    },
+    {
+      "id": 5,
+      "username": "Zhuu",
+      "password": "zhucenn55",
+      "nomor": "6285215603320",
+      "registered_at": "2025-04-05T08:50:52.112Z",
+      "last_login": null
     }
   ],
   "allowed_ips": [
