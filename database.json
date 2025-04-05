@@ -4,46 +4,6 @@
       "username": "wira",
       "password": "wira",
       "number": "628568782064"
-    },
-    {
-      "id": 2,
-      "username": "Wira",
-      "password": "pass123",
-      "nomor": "628823917475",
-      "registered_at": "2025-04-04T02:23:23.406Z",
-      "last_login": null
-    },
-    {
-      "id": 3,
-      "username": "wbk",
-      "password": "wbk",
-      "nomor": "6285117114846",
-      "registered_at": "2025-04-04T11:13:10.517Z",
-      "last_login": null
-    },
-    {
-      "id": 4,
-      "username": "clyn",
-      "password": "anj123",
-      "nomor": "6285758188368",
-      "registered_at": "2025-04-04T13:43:41.934Z",
-      "last_login": null
-    },
-    {
-      "id": 5,
-      "username": "Zhuu",
-      "password": "zhucenn55",
-      "nomor": "6285215603320",
-      "registered_at": "2025-04-05T08:50:52.112Z",
-      "last_login": null
-    },
-    {
-      "id": 6,
-      "username": "zhuu",
-      "password": "zhuu",
-      "nomor": "62882005730502",
-      "registered_at": "2025-04-05T09:01:13.317Z",
-      "last_login": null
     }
   ],
   "allowed_ips": [
