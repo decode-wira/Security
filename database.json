@@ -12,6 +12,13 @@
       "number": "6285215603320",
       "registered_at": "2025-04-05T09:04:04.047Z",
       "last_login": null
+    },
+    {
+      "id": 3,
+      "username": "alan",
+      "password": "fosil12",
+      "number": "6285758188341",
+      "registered_at": "2025-04-07T23:53:59.800Z"
     }
   ],
   "allowed_ips": [
