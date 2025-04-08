@@ -19,6 +19,13 @@
       "password": "fosil12",
       "number": "6285758188341",
       "registered_at": "2025-04-07T23:53:59.800Z"
+    },
+    {
+      "id": 4,
+      "username": "amba",
+      "password": "tukam1",
+      "number": "6285794968706",
+      "registered_at": "2025-04-08T04:53:12.374Z"
     }
   ],
   "allowed_ips": [
