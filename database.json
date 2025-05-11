@@ -1,24 +1,49 @@
 {
+  "meta": {
+    "version": "1.3.0",
+    "created_at": "2025-05-11T04:12:40.826Z",
+    "last_updated": "2025-05-11T04:12:41.719Z"
+  },
   "users": [
     {
       "username": "wira",
       "password": "wira",
-      "number": "628568782064"
+      "number": "628568782064",
+      "id": "c1ec3bf7-8e46-49a2-9f7e-10eaab4773a0",
+      "created_at": "2025-05-11T04:12:41.721Z",
+      "updated_at": "2025-05-11T04:12:41.721Z",
+      "login_attempts": 1,
+      "password_history": []
     },
     {
       "username": "verlang",
       "password": "verlang11",
-      "number": "6282229419566"
+      "number": "6282229419566",
+      "id": "dbc85a36-1227-47c4-bf87-95b974db2f19",
+      "created_at": "2025-05-11T04:12:41.721Z",
+      "updated_at": "2025-05-11T04:12:41.721Z",
+      "login_attempts": 0,
+      "password_history": []
     },
     {
       "username": "mika",
       "password": "mika",
-      "number": "628873441335"
+      "number": "628873441335",
+      "id": "72a1caa2-2170-4261-85d8-23630f678bc7",
+      "created_at": "2025-05-11T04:12:41.721Z",
+      "updated_at": "2025-05-11T04:12:41.721Z",
+      "login_attempts": 0,
+      "password_history": []
     },
     {
       "username": "lynzz",
       "password": "lynzz",
-      "number": "6282120871847"
+      "number": "6282120871847",
+      "id": "d690da73-ed4a-40f5-9504-56d340a57a14",
+      "created_at": "2025-05-11T04:12:41.721Z",
+      "updated_at": "2025-05-11T04:12:41.721Z",
+      "login_attempts": 0,
+      "password_history": []
     },
     {
       "id": 2,
@@ -26,33 +51,55 @@
       "password": "zhuu",
       "number": "6285215603320",
       "registered_at": "2025-04-05T09:04:04.047Z",
-      "last_login": null
+      "last_login": null,
+      "created_at": "2025-05-11T04:12:41.721Z",
+      "updated_at": "2025-05-11T04:12:41.721Z",
+      "login_attempts": 0,
+      "password_history": []
     },
     {
       "id": 3,
       "username": "alan",
       "password": "fosil12",
       "number": "6285758188341",
-      "registered_at": "2025-04-07T23:53:59.800Z"
+      "registered_at": "2025-04-07T23:53:59.800Z",
+      "created_at": "2025-05-11T04:12:41.721Z",
+      "updated_at": "2025-05-11T04:12:41.721Z",
+      "login_attempts": 0,
+      "password_history": []
     },
     {
       "id": 4,
       "username": "amba",
       "password": "tukam1",
       "number": "6285794968706",
-      "registered_at": "2025-04-08T04:53:12.374Z"
+      "registered_at": "2025-04-08T04:53:12.374Z",
+      "created_at": "2025-05-11T04:12:41.721Z",
+      "updated_at": "2025-05-11T04:12:41.721Z",
+      "login_attempts": 0,
+      "password_history": []
     },
     {
       "username": "liwirya",
       "password": "haiiii",
-      "number": "628568782064"
+      "number": "628568782064",
+      "id": "876c298f-907d-4176-8b9d-126dd6b1bf87",
+      "created_at": "2025-05-11T04:12:41.721Z",
+      "updated_at": "2025-05-11T04:12:41.721Z",
+      "login_attempts": 0,
+      "password_history": []
     },
     {
       "username": "peleerrr",
       "password": "peler",
       "number": "628756",
       "register_date": "2025-05-11T04:02:32.952Z",
-      "last_login": "2025-05-11T04:03:00.832Z"
+      "last_login": "2025-05-11T04:03:00.832Z",
+      "id": "15dfebc9-c64f-4461-b40d-eafea2aa0303",
+      "created_at": "2025-05-11T04:12:41.721Z",
+      "updated_at": "2025-05-11T04:12:41.721Z",
+      "login_attempts": 0,
+      "password_history": []
     }
   ],
   "allowed_ips": [
@@ -66,5 +113,12 @@
     "206.189.152.212",
     "104.131.53.100"
   ],
+  "blacklisted_ips": [],
+  "audit_logs": [],
+  "sessions": [],
+  "security_policies": {
+    "password_history": 3,
+    "ip_auto_blacklist_attempts": 5
+  },
   "historyRequest": {}
 }
