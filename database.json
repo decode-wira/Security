@@ -1,10 +1,16 @@
 {
-  "users": [    
+  "users": [
     {
       "username": "liwirya",
       "password": "liwirya",
       "number": "628568782064",
       "registered": "2025-05-11T05:57:19.311Z"
+    },
+    {
+      "username": "0x0a",
+      "password": "0x1b",
+      "number": "0x2c",
+      "registered": "2025-05-11T06:45:44.536Z"
     }
   ],
   "allowed_ips": [
@@ -12,8 +18,8 @@
   ],
   "historyRequest": {},
   "metadata": {
-    "created": "2025-05-11T05:57:02.457Z",
-    "lastUpdate": "2025-05-11T05:57:19.653Z",
+    "created": "2025-05-11T06:45:39.618Z",
+    "lastUpdate": "2025-05-11T06:45:46.411Z",
     "totalUsers": 2,
     "totalIPs": 1
   },
