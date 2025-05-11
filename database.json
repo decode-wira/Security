@@ -11,6 +11,12 @@
       "password": "0x1b",
       "number": "0x2c",
       "registered": "2025-05-11T06:45:44.536Z"
+    },
+    {
+      "username": "jambubiji",
+      "password": "jambubiji",
+      "number": "628384883",
+      "registered": "2025-05-11T09:46:34.514Z"
     }
   ],
   "allowed_ips": [
@@ -18,9 +24,9 @@
   ],
   "historyRequest": {},
   "metadata": {
-    "created": "2025-05-11T06:45:39.618Z",
-    "lastUpdate": "2025-05-11T06:45:46.411Z",
-    "totalUsers": 2,
+    "created": "2025-05-11T09:45:54.107Z",
+    "lastUpdate": "2025-05-11T09:46:34.859Z",
+    "totalUsers": 3,
     "totalIPs": 1
   },
   "meta": {
