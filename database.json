@@ -6,12 +6,23 @@
       "password": "6dc5832b7f9f45d1ac453231533c801a7979c70bdad0b555e9bf8d4d351fc637",
       "number": "628568782064",
       "registeredAt": "2025-05-11T04:49:20.291Z"
+    },
+    {
+      "id": "0e5f4332d337f510455d79e604071dbfb691f9352c467879d899eae1579777d0",
+      "username": "wiraliwirya",
+      "password": "8b22d8e7cf5c47a5ae9e1d6094f563f73105ca5ccbe66a9943e27d6720fb74a3",
+      "phone": "628568782064",
+      "registered_at": "2025-05-11T05:03:45.484Z",
+      "last_login": null
     }
   ],
   "allowed_ips": [],
-  "historyRequest": {},
+  "audit_logs": [],
   "metadata": {
+    "created_at": "2025-05-11T05:03:25.322Z",
+    "last_updated": "2025-05-11T05:03:45.482Z",
     "createdAt": "2025-05-11T04:49:05.998Z",
     "lastUpdated": "2025-05-11T04:49:20.291Z"
-  }
+  },
+  "historyRequest": {}
 }
