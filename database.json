@@ -1,1 +1,17 @@
-[]
+{
+  "version": "1.2.0",
+  "users": [
+    {
+      "username": "liwirya",
+      "password": "6dc5832b7f9f45d1ac453231533c801a7979c70bdad0b555e9bf8d4d351fc637",
+      "number": "628568782064",
+      "registeredAt": "2025-05-11T04:49:20.291Z"
+    }
+  ],
+  "allowed_ips": [],
+  "historyRequest": {},
+  "metadata": {
+    "createdAt": "2025-05-11T04:49:05.998Z",
+    "lastUpdated": "2025-05-11T04:49:20.291Z"
+  }
+}
