@@ -6,7 +6,7 @@
       "number": "628568782064",
       "email": "wiraliwirya@gmail.com",
       "registered": "2025-05-28T17:30:15.527Z",
-      "lastLogin": null,
+      "lastLogin": "2025-05-28T17:31:34.030Z",
       "status": "active",
       "role": "admin",
       "twoFactorEnabled": true,
@@ -26,7 +26,7 @@
   },
   "metadata": {
     "created": "2025-05-28T00:00:00Z",
-    "lastUpdate": "2025-05-28T17:30:15.885Z",
+    "lastUpdate": "2025-05-28T17:31:34.372Z",
     "totalUsers": 1,
     "totalIPs": 1,
     "version": "2.1.0"
