@@ -9,13 +9,13 @@
   "sessions": [],
   "otps": {
     "628568782064": {
-      "otp": "471747",
-      "expires": "2025-05-28T16:04:58.210Z"
+      "otp": "283106",
+      "expires": "2025-05-28T16:07:28.012Z"
     }
   },
   "metadata": {
     "created": "2025-05-11T09:45:54.107Z",
-    "lastUpdate": "2025-05-28T15:59:58.574Z",
+    "lastUpdate": "2025-05-28T16:02:28.424Z",
     "totalUsers": 0,
     "totalIPs": 3,
     "version": "2.0.0"
