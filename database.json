@@ -1,15 +1,15 @@
 {
-    "users": [],
-    "allowed_ips": [
-      "140.213.2.64"
-    ],
-    "sessions": {},
-    "twoFactorSecrets": {},
-    "metadata": {
-        "created": "waktuindo()",
-        "lastUpdate": null,
-        "totalUsers": 0,
-        "totalIPs": 0,
-        "version": "2.1.0"
-    }
+  "users": [],
+  "allowed_ips": [
+    "112.215.65.203"
+  ],
+  "sessions": {},
+  "twoFactorSecrets": {},
+  "metadata": {
+    "created": "2025-05-28T00:00:00Z", 
+    "lastUpdate": null,
+    "totalUsers": 0,
+    "totalIPs": 0,
+    "version": "2.1.0"
+  }
 }
