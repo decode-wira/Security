@@ -1,6 +1,5 @@
 {
-  "users": [
-  ],
+  "users": [],
   "allowed_ips": [
     "112.215.171.254",
     "112.215.170.68",
@@ -8,11 +7,17 @@
   ],
   "historyRequest": {},
   "sessions": [],
+  "otps": {
+    "628568782064": {
+      "otp": "838311",
+      "expires": "2025-05-28T16:02:42.810Z"
+    }
+  },
   "metadata": {
     "created": "2025-05-11T09:45:54.107Z",
-    "lastUpdate": "2025-05-28T15:40:59.563Z",
-    "totalUsers": 4,
-    "totalIPs": 2,
+    "lastUpdate": "2025-05-28T15:57:43.154Z",
+    "totalUsers": 0,
+    "totalIPs": 3,
     "version": "2.0.0"
   },
   "meta": {
