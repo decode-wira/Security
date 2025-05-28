@@ -1,15 +1,35 @@
 {
-  "users": [],
+  "users": [
+    {
+      "username": "liwirya",
+      "password": "1c9dd3689576ea78fcda52e11216cd147084cd603646f4463063fb24739ab0a6",
+      "number": "628568782064",
+      "email": "wiraliwirya@gmail.com",
+      "registered": "2025-05-28T17:30:15.527Z",
+      "lastLogin": null,
+      "status": "active",
+      "role": "admin",
+      "twoFactorEnabled": true,
+      "failedAttempts": 0
+    }
+  ],
   "allowed_ips": [
     "112.215.65.203"
   ],
+  "historyRequest": {},
   "sessions": {},
-  "twoFactorSecrets": {},
+  "roles": {
+    "admin": [
+      "liwirya"
+    ],
+    "user": []
+  },
   "metadata": {
-    "created": "2025-05-28T00:00:00Z", 
-    "lastUpdate": null,
-    "totalUsers": 0,
-    "totalIPs": 0,
+    "created": "2025-05-28T00:00:00Z",
+    "lastUpdate": "2025-05-28T17:30:15.885Z",
+    "totalUsers": 1,
+    "totalIPs": 1,
     "version": "2.1.0"
-  }
+  },
+  "twoFactorSecrets": {}
 }
