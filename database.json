@@ -6,7 +6,7 @@
     "sessions": {},
     "twoFactorSecrets": {},
     "metadata": {
-        "created": waktuindo(),
+        "created": "waktuindo()",
         "lastUpdate": null,
         "totalUsers": 0,
         "totalIPs": 0,
