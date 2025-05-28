@@ -1,15 +1,15 @@
 {
-    users: [],
-    allowed_ips: [
-      "140.213.9.11"
+    "users": [],
+    "allowed_ips": [
+      "140.213.33.58"
     ],
-    sessions: {},
-    twoFactorSecrets: {},
-    metadata: {
-        created: waktuindo(),
-        lastUpdate: null,
-        totalUsers: 0,
-        totalIPs: 0,
-        version: "2.1.0"
+    "sessions": {},
+    "twoFactorSecrets": {},
+    "metadata": {
+        "created": waktuindo(),
+        "lastUpdate": null,
+        "totalUsers": 0,
+        "totalIPs": 0,
+        "version": "2.1.0"
     }
 };
