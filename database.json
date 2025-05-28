@@ -1,32 +1,5 @@
 {
   "users": [
-    {
-      "username": "liwirya",
-      "password": "liwirya",
-      "number": "628568782064",
-      "registered": "2025-05-11T05:57:19.311Z"
-    },
-    {
-      "username": "0x0a",
-      "password": "0x1b",
-      "number": "0x2c",
-      "registered": "2025-05-11T06:45:44.536Z"
-    },
-    {
-      "username": "jambubiji",
-      "password": "jambubiji",
-      "number": "628384883",
-      "registered": "2025-05-11T09:46:34.514Z"
-    },
-    {
-      "username": "liwirya tech",
-      "password": "f9b27c1d0ab65a9f3d1852807ac82fdcd0d4f31f51f186d3c6d6eb23717004f0",
-      "number": "628568782064",
-      "email": "wiraliwirya@gmail.com",
-      "registered": "2025-05-28T15:40:09.728Z",
-      "lastLogin": "2025-05-28T15:40:58.038Z",
-      "status": "active"
-    }
   ],
   "allowed_ips": [
     "112.215.171.254",
