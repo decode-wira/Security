@@ -11,6 +11,12 @@
       "role": "admin",
       "twoFactorEnabled": true,
       "failedAttempts": 0
+    },
+    {
+      "username": "Paok",
+      "password": "paok1",
+      "number": "628568782064",
+      "registered": "2025-06-05T12:48:10.145Z"
     }
   ],
   "allowed_ips": [
@@ -18,6 +24,12 @@
     "140.213.0.35"
   ],
   "historyRequest": {},
+  "metadata": {
+    "created": "2025-06-05T12:47:49.419Z",
+    "lastUpdate": "2025-06-05T12:48:10.498Z",
+    "totalUsers": 2,
+    "totalIPs": 2
+  },
   "sessions": {
     "a561b83cc640ba51472d50de480a8503": {
       "username": "liwirya",
@@ -31,13 +43,6 @@
       "liwirya"
     ],
     "user": []
-  },
-  "metadata": {
-    "created": "2025-05-28T00:00:00Z",
-    "lastUpdate": "2025-05-28T17:31:35.333Z",
-    "totalUsers": 1,
-    "totalIPs": 1,
-    "version": "2.1.0"
   },
   "twoFactorSecrets": {}
 }
