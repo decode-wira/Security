@@ -14,8 +14,6 @@
     }
   ],
   "allowed_ips": [
-    "140.213.0.35",
-    "112.215.151.238"
   ],
   "historyRequest": {},
   "metadata": {
