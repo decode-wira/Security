@@ -11,6 +11,11 @@
       "password": "0x2c",
       "number": "0x2c",
       "registered": "2025-06-05T13:02:26.430Z"
+    },
+    {
+      "username": "Paok",
+      "phoneNumber": "6283879152564",
+      "registeredAt": "2025-06-05T14:09:09.410Z"
     }
   ],
   "allowed_ips": [
@@ -19,7 +24,7 @@
   "historyRequest": {},
   "metadata": {
     "created": "2025-06-05T13:22:59.793Z",
-    "lastUpdate": "2025-06-05T13:23:07.935Z",
+    "lastUpdate": "2025-06-05T14:09:09.410Z",
     "totalUsers": 2,
     "totalIPs": 0
   },
