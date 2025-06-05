@@ -11,21 +11,6 @@
       "password": "0x2c",
       "number": "0x2c",
       "registered": "2025-06-05T13:02:26.430Z"
-    },
-    {
-      "username": "Paok",
-      "phoneNumber": "6283879152564",
-      "registeredAt": "2025-06-05T14:09:09.410Z"
-    },
-    {
-      "username": "Paok",
-      "phoneNumber": "6287821239407",
-      "registeredAt": "2025-06-05T14:22:31.674Z"
-    },
-    {
-      "username": "Paok",
-      "phoneNumber": "628568782064",
-      "registeredAt": "2025-06-05T14:27:53.201Z"
     }
   ],
   "allowed_ips": [
