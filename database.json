@@ -13,7 +13,9 @@
       "registered": "2025-06-05T13:02:26.430Z"
     }
   ],
-  "allowed_ips": [],
+  "allowed_ips": [
+    "103.253.145.16"
+  ],
   "historyRequest": {},
   "metadata": {
     "created": "2025-06-05T13:22:59.793Z",
