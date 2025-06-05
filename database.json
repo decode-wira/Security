@@ -21,6 +21,11 @@
       "username": "Paok",
       "phoneNumber": "6287821239407",
       "registeredAt": "2025-06-05T14:22:31.674Z"
+    },
+    {
+      "username": "Paok",
+      "phoneNumber": "628568782064",
+      "registeredAt": "2025-06-05T14:27:53.201Z"
     }
   ],
   "allowed_ips": [
@@ -29,7 +34,7 @@
   "historyRequest": {},
   "metadata": {
     "created": "2025-06-05T13:22:59.793Z",
-    "lastUpdate": "2025-06-05T14:22:31.674Z",
+    "lastUpdate": "2025-06-05T14:27:53.201Z",
     "totalUsers": 2,
     "totalIPs": 0
   },
