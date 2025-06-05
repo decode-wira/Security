@@ -8,19 +8,18 @@
     },
     {
       "username": "0x0a",
-      "password": "0x1b",
+      "password": "0x2c",
       "number": "0x2c",
       "registered": "2025-06-05T13:02:26.430Z"
     }
   ],
-  "allowed_ips": [
-  ],
+  "allowed_ips": [],
   "historyRequest": {},
   "metadata": {
-    "created": "2025-06-05T13:02:21.457Z",
-    "lastUpdate": "2025-06-05T13:02:28.233Z",
+    "created": "2025-06-05T13:22:59.793Z",
+    "lastUpdate": "2025-06-05T13:23:07.935Z",
     "totalUsers": 2,
-    "totalIPs": 3
+    "totalIPs": 0
   },
   "sessions": {
     "a561b83cc640ba51472d50de480a8503": {
